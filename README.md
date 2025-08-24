@@ -1,2 +1,2 @@
-# BirdKing
-A game inspired by FlappyBird.
+# BirdKing 
+A game inspired by FlappyBird made with pygame.
