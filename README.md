@@ -4,21 +4,7 @@
 
 O objetivo do jogo é simples: controlar o pássaro para passar por entre os canos sem bater neles e tentar alcançar a maior pontuação possível!
 
----
 🧩 Sobre o Projeto
 Este projeto foi criado como um exercício de programação com Python e Pygame, inspirado no jogo Flappy Bird (clone) e é ótimo para praticar lógica de jogos 2D, colisões, física simples e manipulação de sprites. 
-
-🚀 Funcionalidades
-✔️ Movimento do pássaro com gravidade
-✔️ Obstáculos (canos) que se movem
-✔️ Sistema de pontuação
-
-📦 Estrutura
-├── BirdKing/
-│   ├── main.py
-│   ├── const.py
-│   ├── requirements.txt
-│   ├── README.md
-│   └── assets/ (se houver)
 
 📌 Divirta-se jogando e melhorando o BirdKing! 🐦
